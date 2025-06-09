@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/52428fb1-a552-4ce0-8ecc-261b1f174dfe)
 
 # 🧪 Guía Completa: Laboratorio de Ciberseguridad con VirtualBox y VMware
 
